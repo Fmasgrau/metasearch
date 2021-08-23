@@ -12,6 +12,7 @@ import {
 import {
     fetchBingImages,
     fetchingGoogleImages,
+    isSearching,
 } from '../../Redux/Actions/ResultTable/ResultTableAction'
 
 export default function SearchBox(): JSX.Element {
@@ -40,20 +41,23 @@ export default function SearchBox(): JSX.Element {
     }, [textFromSearchBox, itemSelectedFromSearchBox])
 
     const onSubmit = (): void => {
-        dispatch(fetchBingImages({ query: textFromSearchBox }))
-        dispatch(fetchingGoogleImages({ query: textFromSearchBox }))
-
-        // console.log('Submit button', searchValue, selectedValue)
+        dispatch(isSearching())
+        if (itemSelectedFromSearchBox === 'Bing') {
+            dispatch(fetchBingImages({ query: textFromSearchBox }))
+        } else if (itemSelectedFromSearchBox === 'Google') {
+            dispatch(fetchingGoogleImages({ query: textFromSearchBox }))
+        } else if (itemSelectedFromSearchBox === 'Both') {
+            dispatch(fetchBingImages({ query: textFromSearchBox }))
+            dispatch(fetchingGoogleImages({ query: textFromSearchBox }))
+        }
     }
 
     const handleSelect = (event: any): void => {
         dispatch(itemSelected(event))
-        // console.log(event)
     }
 
     const handleChangeSearch = (event: any): void => {
         dispatch(searchText(event.target.value))
-        // console.log(event.target.value)
     }
 
     return (
