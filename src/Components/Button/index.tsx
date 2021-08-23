@@ -8,7 +8,11 @@ export default function Button({
 }: React.ButtonHTMLAttributes<HTMLButtonElement>): JSX.Element {
     return (
         <>
-            <button type={type} onClick={onClick}>
+            <button
+                type={type}
+                onClick={onClick}
+                className="btn btn-lg btn-success"
+            >
                 {children}
             </button>
         </>

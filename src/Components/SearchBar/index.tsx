@@ -24,6 +24,7 @@ export default function SearchBar({
                 placeholder={placeholder}
                 onChange={onChange}
                 value={value}
+                className="form-control form-control-lg form-control-borderless"
             />
         </>
     )

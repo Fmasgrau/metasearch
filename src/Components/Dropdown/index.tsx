@@ -28,7 +28,7 @@ export default function DropDown({
     return (
         <select
             name="customSearch"
-            className="custom-search-select"
+            className="form-control form-control-lg form-control-borderless"
             onChange={handleChange}
         >
             <option>Select Item</option>
