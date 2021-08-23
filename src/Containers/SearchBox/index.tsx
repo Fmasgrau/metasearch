@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import Button from '../../Components/Button'
 import DropDown from '../../Components/Dropdown'
+import Header from '../../Components/Header'
 import SearchBar from '../../Components/SearchBar'
 
 export default function SearchBox(): JSX.Element {
@@ -23,21 +24,17 @@ export default function SearchBox(): JSX.Element {
 
     return (
         <>
-            <div className="card-body row no-gutters align-items-center">
-                <div className="col-auto">
-                    <i className="fas fa-search h4 text-body" />
-                </div>
-                <div className="col">
+            <Header
+                searchBar={
                     <SearchBar
                         name="search"
                         type="search"
-                        placeholder="Search..."
+                        placeholder="Search images"
                         onChange={handleChangeSearch}
                         value={searchValue}
                     />
-                </div>
-
-                <div className="col-auto">
+                }
+                dropDown={
                     <DropDown
                         options={[
                             { id: 'Google', name: 'Google' },
@@ -46,12 +43,9 @@ export default function SearchBox(): JSX.Element {
                         ]}
                         onSelectChange={handleSelect}
                     />
-                </div>
-
-                <div className="col-auto">
-                    <Button onClick={onSubmit}>Submit</Button>
-                </div>
-            </div>
+                }
+                button={<Button onClick={onSubmit}>Submit</Button>}
+            />
         </>
     )
 }
