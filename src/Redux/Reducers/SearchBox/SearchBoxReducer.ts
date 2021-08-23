@@ -7,7 +7,7 @@ import { isDisabled, searchText, itemSelected } from '../../Actions/SearchBox/Se
 interface SearchBoxState {
   isDisabled: boolean,
   itemSelected: string,
-  searchText: string
+  searchText: string,
 }
 
 // Define the initial state using that type

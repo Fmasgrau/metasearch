@@ -1,0 +1,943 @@
+{
+    "_type": "Images",
+    "instrumentation": {
+        "_type": "ResponseInstrumentation"
+    },
+    "readLink": "https://api.bing.microsoft.com/api/v7/images/search?q=playa",
+    "webSearchUrl": "https://www.bing.com/images/search?q=playa&FORM=OIIARP",
+    "queryContext": {
+        "originalQuery": "playa",
+        "alterationDisplayQuery": "playa",
+        "alterationOverrideQuery": "+playa",
+        "alterationMethod": "AM_JustChangeIt",
+        "alterationType": "CombinedAlterationsChained"
+    },
+    "totalEstimatedMatches": 1000,
+    "nextOffset": 36,
+    "currentOffset": 0,
+    "value": [
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=91CE63D562D6364FE1058D57377E9891E21FD9F7&simid=608042428651419237",
+            "name": "Descubre Playa del Carmen: el corazón de la Riviera Maya ...",
+            "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.5CkWKZi2ATuUvlti4yMkGgHaE8&pid=Api",
+            "datePublished": "2018-05-16T16:46:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "http://www.elheraldodesaltillo.mx/wp-content/uploads/2018/05/Descubre-1024x684.jpg",
+            "hostPageUrl": "https://www.elheraldodesaltillo.mx/2018/05/16/descubre-playa-del-carmen-el-corazon-de-la-riviera-maya/",
+            "contentSize": "128056 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://www.elheraldodesaltillo.mx/2018/05/16/descubre-playa-del-carmen-el-corazon-de...",
+            "width": 1024,
+            "height": 684,
+            "hostPageDiscoveredDate": "2018-05-16T16:46:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 316
+            },
+            "imageInsightsToken": "ccid_5CkWKZi2*cp_EA3533235FFE1DEA6397CDFEF1818901*mid_91CE63D562D6364FE1058D57377E9891E21FD9F7*simid_608042428651419237*thid_OIP.5CkWKZi2ATuUvlti4yMkGgHaE8",
+            "insightsMetadata": {
+                "pagesIncludingCount": 108,
+                "availableSizesCount": 50
+            },
+            "imageId": "91CE63D562D6364FE1058D57377E9891E21FD9F7",
+            "accentColor": "077AC4"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=A26F7ABDEDD51BC04AB60C8FFADD5F495896235A&simid=608021250168471922",
+            "name": "Playa Blanca - GoDominicanRepublic.com",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.vpKAUwo32SL8g_kJdAK3LAHaEL&pid=Api",
+            "datePublished": "2021-04-05T17:56:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.godominicanrepublic.com/wp-content/uploads/2017/11/PlayaBlanca-PhotoCredit_usatoday-com-1.jpg",
+            "hostPageUrl": "https://www.godominicanrepublic.com/es/poi/familia/punta-cana-es/playa-blanca/",
+            "contentSize": "145866 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://www.godominicanrepublic.com/es/poi/familia/punta-cana-es/playa-blanca",
+            "width": 1920,
+            "height": 1082,
+            "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.6VBP5E24GImX73tubmSh3A&pid=Api",
+            "hostPageDomainFriendlyName": "Dominican Republic",
+            "hostPageDiscoveredDate": "2018-05-19T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 267
+            },
+            "imageInsightsToken": "ccid_vpKAUwo3*cp_BF01EE632EB1D47E14BC95A8B3B28265*mid_A26F7ABDEDD51BC04AB60C8FFADD5F495896235A*simid_608021250168471922*thid_OIP.vpKAUwo32SL8g!_kJdAK3LAHaEL",
+            "insightsMetadata": {
+                "pagesIncludingCount": 103,
+                "availableSizesCount": 82
+            },
+            "imageId": "A26F7ABDEDD51BC04AB60C8FFADD5F495896235A",
+            "accentColor": "004C81"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=CDCD6DBDEA56FAD3D66492AD442399FA2717FB89&simid=608042518840306308",
+            "name": "Conoce Paraíso, la playa más bella de Tulum",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.JK2r-Aj0f3yF0qzYgjy8sAHaFj&pid=Api",
+            "datePublished": "2021-04-26T15:44:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.aboutespanol.com/thmb/5PQKKPrsuNIFECrAHzDsnyMcg7w=/2560x1920/filters:fill(auto,1)/Playa-Paraiso-en-Tulum-56a29fbe3df78cf772782835.jpg",
+            "hostPageUrl": "https://www.aboutespanol.com/playa-paraiso-el-eden-de-tulum-1187644",
+            "contentSize": "395898 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://www.aboutespanol.com/playa-paraiso-el-eden-de-tulum-1187644",
+            "width": 2560,
+            "height": 1920,
+            "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.Q5GtP-mthK4G1sT2OafXYA&pid=Api",
+            "hostPageDiscoveredDate": "2017-08-26T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 355
+            },
+            "imageInsightsToken": "ccid_JK2r+Aj0*cp_3737473824F41AD00D1F3CF73EB29EF9*mid_CDCD6DBDEA56FAD3D66492AD442399FA2717FB89*simid_608042518840306308*thid_OIP.JK2r-Aj0f3yF0qzYgjy8sAHaFj",
+            "insightsMetadata": {
+                "pagesIncludingCount": 13,
+                "availableSizesCount": 7
+            },
+            "imageId": "CDCD6DBDEA56FAD3D66492AD442399FA2717FB89",
+            "accentColor": "014BCA"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=71D626F8FCDB6A67FE32EAC61F6E908BC3084EEA&simid=607990760203029597",
+            "name": "Akumal: la playa de la tortuga marina en la Riviera Maya ...",
+            "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.nIzfUxK15PSa3PiktIvpIgHaE8&pid=Api",
+            "datePublished": "2021-05-30T03:29:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://topadventure.com/__export/1608998959241/sites/laverdad/img/2020/12/26/akumal_playa.jpg_1042351659.jpg",
+            "hostPageUrl": "https://topadventure.com/playa/Akumal-la-playa-de-la-tortuga-marina-en-la-Riviera-Maya-20201226-0002.html",
+            "contentSize": "706484 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://topadventure.com/playa/Akumal-la-playa-de-la-tortuga-marina-en-la-Riviera-Maya...",
+            "width": 2507,
+            "height": 1673,
+            "hostPageDiscoveredDate": "2021-01-02T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 316
+            },
+            "imageInsightsToken": "ccid_nIzfUxK1*cp_0946B496320C2DDC7C8E4444C8642929*mid_71D626F8FCDB6A67FE32EAC61F6E908BC3084EEA*simid_607990760203029597*thid_OIP.nIzfUxK15PSa3PiktIvpIgHaE8",
+            "insightsMetadata": {
+                "pagesIncludingCount": 13,
+                "availableSizesCount": 7
+            },
+            "imageId": "71D626F8FCDB6A67FE32EAC61F6E908BC3084EEA",
+            "accentColor": "0671C6"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=F3B8DEC78FC8B07545791644B45C99011B2AB342&simid=608019708265766899",
+            "name": "Vacaciones a Playa Bavaro para disfrutar del destino ...",
+            "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.kBpwxRP_0ersn_anf7goxwHaEL&pid=Api",
+            "datePublished": "2021-05-24T01:49:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://cdn.holidayguru.es/wp-content/uploads/2017/02/Caribbean-beach-in-Dominican-Republic-Punta-Cana-iStock_000079998869_Large-2.jpg",
+            "hostPageUrl": "https://www.holidayguru.es/viajes/vacaciones-a-playa-bavaro/",
+            "contentSize": "1376119 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://www.holidayguru.es/viajes/vacaciones-a-playa-bavaro",
+            "width": 3344,
+            "height": 1884,
+            "hostPageDiscoveredDate": "2017-02-21T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 267
+            },
+            "imageInsightsToken": "ccid_kBpwxRP/*cp_46EB090392A293FBB73072E039185E61*mid_F3B8DEC78FC8B07545791644B45C99011B2AB342*simid_608019708265766899*thid_OIP.kBpwxRP!_0ersn!_anf7goxwHaEL",
+            "insightsMetadata": {
+                "pagesIncludingCount": 134,
+                "availableSizesCount": 97
+            },
+            "imageId": "F3B8DEC78FC8B07545791644B45C99011B2AB342",
+            "accentColor": "02437E"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=C3E7327D1EDEA8F33E6BFC4D0C421DCBC4BBBDF3&simid=608046070776029059",
+            "name": "Playa de Empuriabrava – Red Costa Brava",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.GIWcMcX5xa2ZuLgNt5dgDwHaE7&pid=Api",
+            "datePublished": "2021-03-10T21:40:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://redcostabrava.com/wp-content/uploads/job-manager-uploads/featured_image/2015/07/empuriabrava_01.jpg",
+            "hostPageUrl": "https://redcostabrava.com/ficha/playa-de-empuriabrava-girona/",
+            "contentSize": "532800 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://redcostabrava.com/ficha/playa-de-empuriabrava-girona",
+            "width": 1759,
+            "height": 1170,
+            "hostPageDiscoveredDate": "2020-06-19T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 315
+            },
+            "imageInsightsToken": "ccid_GIWcMcX5*cp_E06AC76F2754DDFCB62E166059D44D22*mid_C3E7327D1EDEA8F33E6BFC4D0C421DCBC4BBBDF3*simid_608046070776029059*thid_OIP.GIWcMcX5xa2ZuLgNt5dgDwHaE7",
+            "insightsMetadata": {
+                "pagesIncludingCount": 7,
+                "availableSizesCount": 3
+            },
+            "imageId": "C3E7327D1EDEA8F33E6BFC4D0C421DCBC4BBBDF3",
+            "accentColor": "2B72A0"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=8995D9AE98600A14D9A306C8EAE3868DED2DCE8A&simid=608042798012719312",
+            "name": "Tulum, la playa más bonita de México | Me lo dijo Lola",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.855gQli_O565_kMDT29w8QHaFj&pid=Api",
+            "datePublished": "2020-06-24T13:33:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "http://cdn2.rsvponline.mx/files/rsvp/uploads/2018/playa-t.jpg",
+            "hostPageUrl": "https://www.melodijolola.com/viajar-es-increible/tulum-la-playa-mas-bonita-de-mexico",
+            "contentSize": "695908 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://www.melodijolola.com/viajar-es-increible/tulum-la-playa-mas-bonita-de-mexico",
+            "width": 1600,
+            "height": 1200,
+            "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.dUUskoXbmfRISLStCk1vYg&pid=Api",
+            "hostPageDiscoveredDate": "2019-03-31T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 355
+            },
+            "imageInsightsToken": "ccid_855gQli/*cp_453B470CD83518D5D99F3EFB0D008BDF*mid_8995D9AE98600A14D9A306C8EAE3868DED2DCE8A*simid_608042798012719312*thid_OIP.855gQli!_O565!_kMDT29w8QHaFj",
+            "insightsMetadata": {
+                "pagesIncludingCount": 102,
+                "availableSizesCount": 57
+            },
+            "imageId": "8995D9AE98600A14D9A306C8EAE3868DED2DCE8A",
+            "accentColor": "0587A0"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=4C31289C22597D0FFEBB279A015939DCA37CD808&simid=607992860432480548",
+            "name": "Playa Blanca - Colón | Panamá Guía",
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.Sy0-FplgIFEXkePZjNKNTgHaEC&pid=Api",
+            "datePublished": "2020-11-09T02:57:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.panamaguia.com/site/assets/files/1051/playa_blanca_colon_destino_4.1200x0.jpg",
+            "hostPageUrl": "https://www.panamaguia.com/en/destinos/destinos-top/playa-blanca-colon/",
+            "contentSize": "214035 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://www.panamaguia.com/en/destinos/destinos-top/playa-blanca-colon",
+            "width": 1200,
+            "height": 654,
+            "hostPageDiscoveredDate": "2020-05-22T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 258
+            },
+            "imageInsightsToken": "ccid_Sy0+Fplg*cp_9A648499C53DB60CC3C86A6AD77ACB58*mid_4C31289C22597D0FFEBB279A015939DCA37CD808*simid_607992860432480548*thid_OIP.Sy0-FplgIFEXkePZjNKNTgHaEC",
+            "insightsMetadata": {
+                "pagesIncludingCount": 7,
+                "availableSizesCount": 4
+            },
+            "imageId": "4C31289C22597D0FFEBB279A015939DCA37CD808",
+            "accentColor": "2AA19A"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=0E0A49CC0AC051AA6668527447BB61281A1E1B20&simid=608040148020456658",
+            "name": "Playa Grande - GoDominicanRepublic.com",
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.-khAF9zCNvZF8dVpA4XElgHaJ4&pid=Api",
+            "datePublished": "2020-04-19T16:17:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.godominicanrepublic.com/wp-content/uploads/2017/12/rmp18-playa-grande.jpg?x44483",
+            "hostPageUrl": "https://www.godominicanrepublic.com/es/poi/familia/puerto-plata-es/playa-grande/",
+            "contentSize": "729245 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://www.godominicanrepublic.com/es/poi/familia/puerto-plata-es/playa-grande",
+            "width": 1873,
+            "height": 2500,
+            "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.6VBP5E24GImX73tubmSh3A&pid=Api",
+            "hostPageDomainFriendlyName": "Dominican Republic",
+            "hostPageDiscoveredDate": "2018-05-19T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 632
+            },
+            "imageInsightsToken": "ccid_+khAF9zC*cp_B414E72E78480BFB443259D0252A01A8*mid_0E0A49CC0AC051AA6668527447BB61281A1E1B20*simid_608040148020456658*thid_OIP.-khAF9zCNvZF8dVpA4XElgHaJ4",
+            "insightsMetadata": {
+                "pagesIncludingCount": 3,
+                "availableSizesCount": 1
+            },
+            "imageId": "0E0A49CC0AC051AA6668527447BB61281A1E1B20",
+            "accentColor": "0793BA"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=09806114AD5AC88ED56833DAFDC2586E31F0B450&simid=607986740111495534",
+            "name": "Conoce Playa Blanca en Punta Cana - Lopesan Costa Bávaro",
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.SdqJyY2wjkSesHB_xLcZvwHaDf&pid=Api",
+            "datePublished": "2019-12-02T16:05:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.lopesancostabavaro.com/wp-content/uploads/2019/11/Bavaro-Beach-2-1.jpg",
+            "hostPageUrl": "https://www.lopesancostabavaro.com/blog/descubre/playa-blanca-punta-cana/",
+            "contentSize": "906249 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://www.lopesancostabavaro.com/blog/descubre/playa-blanca-punta-cana",
+            "width": 7435,
+            "height": 3500,
+            "hostPageDiscoveredDate": "2019-12-02T16:05:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 223
+            },
+            "imageInsightsToken": "ccid_SdqJyY2w*cp_860BC414EC714DED04DB20B162FD42DA*mid_09806114AD5AC88ED56833DAFDC2586E31F0B450*simid_607986740111495534*thid_OIP.SdqJyY2wjkSesHB!_xLcZvwHaDf",
+            "insightsMetadata": {
+                "pagesIncludingCount": 8,
+                "availableSizesCount": 8
+            },
+            "imageId": "09806114AD5AC88ED56833DAFDC2586E31F0B450",
+            "accentColor": "184B86"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=84925858EDCFE5E94190ECE2A2BEC9024D199333&simid=608000174757196077",
+            "name": "Playa Azul, Michoacán: Un espectáculo de color brillante ...",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.uke-EOpwUYQrjmB8LrumSQHaEc&pid=Api",
+            "datePublished": "2019-09-02T02:28:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://elsouvenir.com/wp-content/uploads/2019/09/Playa-Azul-Michoac%C3%A1n-Foto.-Pixabay.jpg",
+            "hostPageUrl": "https://elsouvenir.com/playa-azul-michocan-lazaro-cardenas-playas-surf/",
+            "contentSize": "74402 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://elsouvenir.com/playa-azul-michocan-lazaro-cardenas-playas-surf",
+            "width": 1000,
+            "height": 600,
+            "hostPageDiscoveredDate": "2019-09-01T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 284
+            },
+            "imageInsightsToken": "ccid_uke+EOpw*cp_03CFB8050BD5E89847B505E13E63E338*mid_84925858EDCFE5E94190ECE2A2BEC9024D199333*simid_608000174757196077*thid_OIP.uke-EOpwUYQrjmB8LrumSQHaEc",
+            "insightsMetadata": {
+                "pagesIncludingCount": 8,
+                "availableSizesCount": 7
+            },
+            "imageId": "84925858EDCFE5E94190ECE2A2BEC9024D199333",
+            "accentColor": "0C4B64"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=DA777039DE3009E0D4BE97C459DCBD9DF6DA5991&simid=608010203509248394",
+            "name": "El acceso a la playa de Lapamán desde la PO-551 será ...",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.4M1cUW0UKBg7LPwC6nt2LAHaED&pid=Api",
+            "datePublished": "2021-05-23T16:45:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://pontevedraviva.com/uploads/fotos/foto/9cb/558948c1ea-juan-mejuto-playa-lapaman.jpg",
+            "hostPageUrl": "https://pontevedraviva.com/xeral/41234/acceso-playa-lapaman-desde-po551-sera-reformado-2018/?lang=es",
+            "contentSize": "198852 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://pontevedraviva.com/xeral/41234/acceso-playa-lapaman-desde-po551-sera-reformado...",
+            "width": 1200,
+            "height": 656,
+            "hostPageDiscoveredDate": "2018-07-21T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 259
+            },
+            "imageInsightsToken": "ccid_4M1cUW0U*cp_F260BD41B95E7F95144FEA939F182FB1*mid_DA777039DE3009E0D4BE97C459DCBD9DF6DA5991*simid_608010203509248394*thid_OIP.4M1cUW0UKBg7LPwC6nt2LAHaED",
+            "insightsMetadata": {
+                "pagesIncludingCount": 3,
+                "availableSizesCount": 3
+            },
+            "imageId": "DA777039DE3009E0D4BE97C459DCBD9DF6DA5991",
+            "accentColor": "1E55AD"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=3E856AFB3CC404C87A410718FDAA15AB0432A1D8&simid=608001927106598762",
+            "name": "Una visita a Colomitos, la playa más pequeña de México",
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.D83e6qPFd5_OD5OIxNgRoQHaDz&pid=Api",
+            "datePublished": "2019-12-28T22:27:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://cdn.travesiasdigital.com/wp-content/uploads/2019/07/playa-mas-pequena-de-mexico.jpg",
+            "hostPageUrl": "https://travesiasdigital.com/destinos/colomitos-la-playa-mas-pequena-de-mexico",
+            "contentSize": "516859 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://travesiasdigital.com/destinos/colomitos-la-playa-mas-pequena-de-mexico",
+            "width": 1052,
+            "height": 540,
+            "hostPageDiscoveredDate": "2019-08-08T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 243
+            },
+            "imageInsightsToken": "ccid_D83e6qPF*cp_80E87C128ABA90B0AECD66587A578BFD*mid_3E856AFB3CC404C87A410718FDAA15AB0432A1D8*simid_608001927106598762*thid_OIP.D83e6qPFd5!_OD5OIxNgRoQHaDz",
+            "insightsMetadata": {
+                "pagesIncludingCount": 6,
+                "availableSizesCount": 7
+            },
+            "imageId": "3E856AFB3CC404C87A410718FDAA15AB0432A1D8",
+            "accentColor": "1180BA"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=35C92C90C3AABB0758F078ED5BFCB60538CC5F5E&simid=608026790672297764",
+            "name": "Playa paradisíaca 1280x1024 | FondosWiki.com",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.IE_Zf7qU-w2opjwoMoD0pQHaF7&pid=Api",
+            "datePublished": "2020-10-15T09:38:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "http://www.fondoswiki.com/Uploads/fondoswiki.com/Resoluciones/169-1280x1024.jpg",
+            "hostPageUrl": "https://www.fondoswiki.com/fondos/playa-paradisiaca-jpg/1280x1024",
+            "contentSize": "165990 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://www.fondoswiki.com/fondos/playa-paradisiaca-jpg/1280x1024",
+            "width": 1280,
+            "height": 1024,
+            "hostPageDiscoveredDate": "2018-05-05T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 379
+            },
+            "imageInsightsToken": "ccid_IE/Zf7qU*cp_5A5276CC2C5AFA3DCF6867033D98FBC8*mid_35C92C90C3AABB0758F078ED5BFCB60538CC5F5E*simid_608026790672297764*thid_OIP.IE!_Zf7qU-w2opjwoMoD0pQHaF7",
+            "insightsMetadata": {
+                "pagesIncludingCount": 919,
+                "availableSizesCount": 305
+            },
+            "imageId": "35C92C90C3AABB0758F078ED5BFCB60538CC5F5E",
+            "accentColor": "012583"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=DD81C93A413CE04D041F924E110C0B152679318A&simid=608004383826985706",
+            "name": "Playa de Las Conchas - Lanzarote Outdoor",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.QrhSTKYOzK2zCW4AcNyudwHaFj&pid=Api",
+            "datePublished": "2021-02-21T15:41:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.lanzaroteoutdoor.com/wp-content/uploads/2018/04/Playa-Las-Conchas.jpg",
+            "hostPageUrl": "https://www.lanzaroteoutdoor.com/en/playa-de-las-conchas/",
+            "contentSize": "260464 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://www.lanzaroteoutdoor.com/en/playa-de-las-conchas",
+            "width": 1280,
+            "height": 960,
+            "hostPageDiscoveredDate": "2020-06-27T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 355
+            },
+            "imageInsightsToken": "ccid_QrhSTKYO*cp_420CA175F4DA9BAEC2C3A24C82D0F696*mid_DD81C93A413CE04D041F924E110C0B152679318A*simid_608004383826985706*thid_OIP.QrhSTKYOzK2zCW4AcNyudwHaFj",
+            "insightsMetadata": {
+                "pagesIncludingCount": 1,
+                "availableSizesCount": 1
+            },
+            "imageId": "DD81C93A413CE04D041F924E110C0B152679318A",
+            "accentColor": "063DC5"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=0C0CC1C738B2D6A34C8DE0E43848284636DF4319&simid=607986224719797619",
+            "name": "Playa Macao -Turismo en República Dominicana",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.ZbE_VHvKkIHWIxeLJlP4IAHaD3&pid=Api",
+            "datePublished": "2020-09-21T13:49:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://turismord.net/wp-content/uploads/2020/06/Playa-Macao.jpg",
+            "hostPageUrl": "https://turismord.net/la-altagracia/punta-cana/playa-macao/",
+            "contentSize": "83218 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://turismord.net/la-altagracia/punta-cana/playa-macao",
+            "width": 750,
+            "height": 391,
+            "hostPageDiscoveredDate": "2020-06-15T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 247
+            },
+            "imageInsightsToken": "ccid_ZbE/VHvK*cp_0F0460D61BF46E28423D18D0255A96DC*mid_0C0CC1C738B2D6A34C8DE0E43848284636DF4319*simid_607986224719797619*thid_OIP.ZbE!_VHvKkIHWIxeLJlP4IAHaD3",
+            "insightsMetadata": {
+                "pagesIncludingCount": 1,
+                "availableSizesCount": 1
+            },
+            "imageId": "0C0CC1C738B2D6A34C8DE0E43848284636DF4319",
+            "accentColor": "0C6EBF"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=E176867D874A74A59DB0CAFB6D06E6EDD310B70A&simid=607990296339643456",
+            "name": "Playa de palmeras 1920x1080 HD | FotosWiki.net",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.2wbpHRsSsRq-2GMaM_f9FQHaEK&pid=Api",
+            "datePublished": "2020-10-26T02:45:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "http://www.fotoswiki.net/Uploads/fotoswiki.net/Resoluciones/1984-1920x1080.jpg",
+            "hostPageUrl": "https://www.fotoswiki.net/foto/playa-palmeras-1-jpg/1920x1080",
+            "contentSize": "284157 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://www.fotoswiki.net/foto/playa-palmeras-1-jpg/1920x1080",
+            "width": 1920,
+            "height": 1080,
+            "hostPageDiscoveredDate": "2018-05-01T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 266
+            },
+            "imageInsightsToken": "ccid_2wbpHRsS*cp_443F60867081E1D0EB0300331BF39258*mid_E176867D874A74A59DB0CAFB6D06E6EDD310B70A*simid_607990296339643456*thid_OIP.2wbpHRsSsRq-2GMaM!_f9FQHaEK",
+            "insightsMetadata": {
+                "pagesIncludingCount": 10,
+                "availableSizesCount": 5
+            },
+            "imageId": "E176867D874A74A59DB0CAFB6D06E6EDD310B70A",
+            "accentColor": "0479C7"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=1C04762C162A759FF6D191A5A915DFE136BEE429&simid=608028238074044563",
+            "name": "Playa Es Caragol",
+            "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.IhDO3KG4K5SynxxOkwZ_yQHaHa&pid=Api",
+            "datePublished": "2021-03-30T19:43:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://100playas.com/wp-content/uploads/2012/09/Playa-Es-Caragol-g1.jpeg",
+            "hostPageUrl": "https://100playas.com/playa-es-caragol/",
+            "contentSize": "410436 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://100playas.com/playa-es-caragol",
+            "width": 2362,
+            "height": 2362,
+            "hostPageDiscoveredDate": "2017-12-30T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 474
+            },
+            "imageInsightsToken": "ccid_IhDO3KG4*cp_6B67D6BC52042777F7841A7EB69976BC*mid_1C04762C162A759FF6D191A5A915DFE136BEE429*simid_608028238074044563*thid_OIP.IhDO3KG4K5SynxxOkwZ!_yQHaHa",
+            "insightsMetadata": {
+                "pagesIncludingCount": 22,
+                "availableSizesCount": 12
+            },
+            "imageId": "1C04762C162A759FF6D191A5A915DFE136BEE429",
+            "accentColor": "0686C5"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=1FBA6B350626A6CAD03FA9DF8634FFF9836CB9BD&simid=608055373676677719",
+            "name": "Playa Cristal (Parque Tayrona) – Santa Marta, Magdalena ...",
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.pIjl7-U1_XFDLE-USKX5wgHaFX&pid=Api",
+            "datePublished": "2020-06-14T02:32:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://solvitour.com/wp-content/uploads/2019/12/playa-cristal_galeria_2.jpg",
+            "hostPageUrl": "https://solvitour.com/packages/tour-playa-cristal-parque-tayrona-santa-marta-magdalena/",
+            "contentSize": "148401 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://solvitour.com/packages/tour-playa-cristal-parque-tayrona-santa-marta-magdalena",
+            "width": 800,
+            "height": 580,
+            "hostPageDiscoveredDate": "2020-01-07T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 343
+            },
+            "imageInsightsToken": "ccid_pIjl7+U1*cp_4BF22737134E3232E66A21167427F48A*mid_1FBA6B350626A6CAD03FA9DF8634FFF9836CB9BD*simid_608055373676677719*thid_OIP.pIjl7-U1!_XFDLE-USKX5wgHaFX",
+            "insightsMetadata": {
+                "pagesIncludingCount": 2,
+                "availableSizesCount": 1
+            },
+            "imageId": "1FBA6B350626A6CAD03FA9DF8634FFF9836CB9BD",
+            "accentColor": "0172CA"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=2C7A39D405434EB0DEBE10C8F7A5E4ED81AC5CBC&simid=607994402316038496",
+            "name": "Playa del Silencio (Asturias) | Sitios de España",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP._EAD9Xm8m90t20hWdgIZHwHaDx&pid=Api",
+            "datePublished": "2021-04-05T20:19:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "http://static1.squarespace.com/static/5a86b05bcf81e0af04936cc7/5a8702b3c830255b6054a44b/5b51cb5a0e2e7239c2cf6d62/1539292298490/playa-de-silencio-asturias.jpg?format=1500w",
+            "hostPageUrl": "https://www.sitiosdeespana.es/articulo/playa-del-silencio-castaneras-cudillero",
+            "contentSize": "428129 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://www.sitiosdeespana.es/articulo/playa-del-silencio-castaneras-cudillero",
+            "width": 1500,
+            "height": 765,
+            "hostPageDiscoveredDate": "2018-09-15T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 241
+            },
+            "imageInsightsToken": "ccid_/EAD9Xm8*cp_047BB8E5400DD7DB98553D92629415B7*mid_2C7A39D405434EB0DEBE10C8F7A5E4ED81AC5CBC*simid_607994402316038496*thid_OIP.!_EAD9Xm8m90t20hWdgIZHwHaDx",
+            "insightsMetadata": {
+                "pagesIncludingCount": 20,
+                "availableSizesCount": 7
+            },
+            "imageId": "2C7A39D405434EB0DEBE10C8F7A5E4ED81AC5CBC",
+            "accentColor": "0B84C0"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=51B8A9A543A9FA6D5592A9F2A3E14DCAF5152910&simid=608027473570110793",
+            "name": "Playa de Mexota - Qué ver en Asturias",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP._i6AmTVDFib8hjVN0F4qpgHaFR&pid=Api",
+            "datePublished": "2020-06-06T01:08:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://queverenasturias.es/wp-content/uploads/2019/11/Playa-de-Mexota-01-1124x800.jpg",
+            "hostPageUrl": "https://queverenasturias.es/visitar/playa-de-mexota/",
+            "contentSize": "135098 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://queverenasturias.es/visitar/playa-de-mexota",
+            "width": 1124,
+            "height": 800,
+            "hostPageDiscoveredDate": "2019-11-17T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 337
+            },
+            "imageInsightsToken": "ccid_/i6AmTVD*cp_435C3216D2C86BDDA7C44BC2D87E41B8*mid_51B8A9A543A9FA6D5592A9F2A3E14DCAF5152910*simid_608027473570110793*thid_OIP.!_i6AmTVDFib8hjVN0F4qpgHaFR",
+            "insightsMetadata": {
+                "pagesIncludingCount": 1,
+                "availableSizesCount": 1
+            },
+            "imageId": "51B8A9A543A9FA6D5592A9F2A3E14DCAF5152910",
+            "accentColor": "098BC2"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=9C9B307B1CFAAFD4B90C58B5EC69F164A48A67CF&simid=608043605462486513",
+            "name": "¿Qué prefieres para tus vacaciones, playa o montaña? - H15 ...",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.hueyeF7rNEmv5xugMebz5wHaE8&pid=Api",
+            "datePublished": "2020-05-29T08:27:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://h15inmobiliaria.com/wp-content/uploads/2017/06/09-Plyazh.jpg",
+            "hostPageUrl": "https://h15inmobiliaria.com/que-prefieres-para-tus-vacaciones-playa-o-montana/",
+            "contentSize": "293321 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://h15inmobiliaria.com/que-prefieres-para-tus-vacaciones-playa-o-montana",
+            "width": 1200,
+            "height": 801,
+            "hostPageDiscoveredDate": "2017-08-28T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 316
+            },
+            "imageInsightsToken": "ccid_hueyeF7r*cp_0547C38659FB049CC3C2255740FA8671*mid_9C9B307B1CFAAFD4B90C58B5EC69F164A48A67CF*simid_608043605462486513*thid_OIP.hueyeF7rNEmv5xugMebz5wHaE8",
+            "insightsMetadata": {
+                "pagesIncludingCount": 702,
+                "availableSizesCount": 241
+            },
+            "imageId": "9C9B307B1CFAAFD4B90C58B5EC69F164A48A67CF",
+            "accentColor": "0DBEB9"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=BF9FFDAB2BFEEC6313FDDDEA7C018A2B853D009D&simid=607992499663018936",
+            "name": "Playa Spratt Bight, Isla de San Andrés, Colombia. Qué ver.",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.-eskIvYUIkhDTwqTyvJgMwHaEK&pid=Api",
+            "datePublished": "2020-11-15T04:22:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://viajareacolombia.com/wp-content/uploads/2020/07/playa-spratt-bight-1000x563.jpg",
+            "hostPageUrl": "https://viajareacolombia.com/isla-de-san-andres/playa-spratt-bight/",
+            "contentSize": "87866 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://viajareacolombia.com/isla-de-san-andres/playa-spratt-bight",
+            "width": 1000,
+            "height": 563,
+            "hostPageDiscoveredDate": "2019-04-06T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 266
+            },
+            "imageInsightsToken": "ccid_+eskIvYU*cp_5E5F98B91C86A69D81DA90BA68AD9E28*mid_BF9FFDAB2BFEEC6313FDDDEA7C018A2B853D009D*simid_607992499663018936*thid_OIP.-eskIvYUIkhDTwqTyvJgMwHaEK",
+            "insightsMetadata": {
+                "pagesIncludingCount": 8,
+                "availableSizesCount": 7
+            },
+            "imageId": "BF9FFDAB2BFEEC6313FDDDEA7C018A2B853D009D",
+            "accentColor": "028FC9"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=D47300CDCCC4FF665C36D2BF262B56295121E24B&simid=608025394804187050",
+            "name": "Playa Colorada - Wikipedia, la enciclopedia libre",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.7Wg84h08ox5A8dWnh4NIHgHaFj&pid=Api",
+            "datePublished": "2021-04-27T13:55:00.0000000Z",
+            "isFamilyFriendly": true,
+            "creativeCommons": "AttributionShareAlike",
+            "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Playa_Colorada_Parque_Nacional_Mochima.jpg/1200px-Playa_Colorada_Parque_Nacional_Mochima.jpg",
+            "hostPageUrl": "https://es.wikipedia.org/wiki/Playa_Colorada",
+            "contentSize": "311940 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://es.wikipedia.org/wiki/Playa_Colorada",
+            "width": 1200,
+            "height": 900,
+            "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.8fAdq30EV4Gt1O_Tgee0vA&pid=Api",
+            "hostPageDiscoveredDate": "2013-09-16T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 355
+            },
+            "imageInsightsToken": "ccid_7Wg84h08*cp_0A3E066E8110BADB861F18B69E4AB77B*mid_D47300CDCCC4FF665C36D2BF262B56295121E24B*simid_608025394804187050*thid_OIP.7Wg84h08ox5A8dWnh4NIHgHaFj",
+            "insightsMetadata": {
+                "pagesIncludingCount": 1,
+                "availableSizesCount": 1
+            },
+            "imageId": "D47300CDCCC4FF665C36D2BF262B56295121E24B",
+            "accentColor": "125FB9"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=980B777BAA4738F105174DCBF1EB48AF46E23FC4&simid=608019381847217448",
+            "name": "Playa de Santa Ponsa - Holiday Center Blog",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.8KpljM_qTYWtqqR6uL3WvQHaE0&pid=Api",
+            "datePublished": "2021-01-02T08:41:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "http://www.holidaycenter.es/blog-es/wp-content/uploads/2018/08/01-00-03-santa-ponsa-7-382.jpg",
+            "hostPageUrl": "http://www.holidaycenter.es/blog-es/playa-santa-ponsa/",
+            "contentSize": "826743 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "www.holidaycenter.es/blog-es/playa-santa-ponsa",
+            "width": 2048,
+            "height": 1332,
+            "hostPageDiscoveredDate": "2018-09-06T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 308
+            },
+            "imageInsightsToken": "ccid_8KpljM/q*cp_8EE6B5C56D9372E9BCD401F1A95275D1*mid_980B777BAA4738F105174DCBF1EB48AF46E23FC4*simid_608019381847217448*thid_OIP.8KpljM!_qTYWtqqR6uL3WvQHaE0",
+            "insightsMetadata": {
+                "pagesIncludingCount": 57,
+                "availableSizesCount": 37
+            },
+            "imageId": "980B777BAA4738F105174DCBF1EB48AF46E23FC4",
+            "accentColor": "0784C4"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=A86EEBC89A80FFFC593B9FF403EA565775489B92&simid=608037407830254469",
+            "name": "Acapulco y Cancún, entre los destinos de playa más ...",
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.YkLzC-s6FAgGdpzVumL9GgHaEV&pid=Api",
+            "datePublished": "2020-01-15T06:21:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://info7rm.blob.core.windows.net.optimalcdn.com/images/2017/12/23/cancun.jpg",
+            "hostPageUrl": "https://www.info7.mx/nacional/acapulco-y-cancun-entre-los-destinos-de-playa-mas-buscados-en-vacaciones/2046857",
+            "contentSize": "68287 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://www.info7.mx/nacional/acapulco-y-cancun-entre-los-destinos-de-playa-mas...",
+            "width": 1400,
+            "height": 820,
+            "hostPageDiscoveredDate": "2020-01-03T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 277
+            },
+            "imageInsightsToken": "ccid_YkLzC+s6*cp_DCECE6408B3D1FF154F33E8E565DA597*mid_A86EEBC89A80FFFC593B9FF403EA565775489B92*simid_608037407830254469*thid_OIP.YkLzC-s6FAgGdpzVumL9GgHaEV",
+            "insightsMetadata": {
+                "pagesIncludingCount": 27,
+                "availableSizesCount": 17
+            },
+            "imageId": "A86EEBC89A80FFFC593B9FF403EA565775489B92",
+            "accentColor": "267FA5"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=0235E75880DC9A31035948D1F9D90CD150065944&simid=608016027489828257",
+            "name": "Destaca Playa Paraíso entre las 10 mejores a nivel mundial ...",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.idaEp7O0m4AjdzYdbxTuCQHaEm&pid=Api",
+            "datePublished": "2017-11-30T03:00:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://images.sipse.com/D9LY3ECqLGFG0v35loTjMyNI-hs=/800x497/smart/2017/11/29/1511984835314.jpg",
+            "hostPageUrl": "https://sipse.com/novedades/playa-paraiso-mejores-mundo-expertos-canada-flight-network-riviera-maya-277199.html",
+            "contentSize": "79528 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://sipse.com/novedades/playa-paraiso-mejores-mundo-expertos-canada-flight-network...",
+            "width": 800,
+            "height": 497,
+            "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.N6Dpg-0jzA_6tcq__rJYFA&pid=Api",
+            "hostPageDomainFriendlyName": "Novedades Quintana Roo",
+            "hostPageDiscoveredDate": "2017-11-29T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 294
+            },
+            "imageInsightsToken": "ccid_idaEp7O0*cp_B2B51DBB48DE6AD88EDB0C5327B9B9E1*mid_0235E75880DC9A31035948D1F9D90CD150065944*simid_608016027489828257*thid_OIP.idaEp7O0m4AjdzYdbxTuCQHaEm",
+            "insightsMetadata": {
+                "pagesIncludingCount": 10,
+                "availableSizesCount": 7
+            },
+            "imageId": "0235E75880DC9A31035948D1F9D90CD150065944",
+            "accentColor": "137DB8"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=54E184CA6D0CFA4516CA950BE9991C0E2BF61CFD&simid=608054652118052305",
+            "name": "Importancia de las Banderas de Playa – Mar",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.e3vMf35TdT3UjhK2IXjnIwHaE7&pid=Api",
+            "datePublished": "2021-02-02T23:13:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://www.importancia.org/wp-content/uploads/global-de-las/Banderas-Playa.jpg",
+            "hostPageUrl": "https://www.importancia.org/banderas-playa-mar.php",
+            "contentSize": "372397 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://www.importancia.org/banderas-playa-mar.php",
+            "width": 1688,
+            "height": 1125,
+            "hostPageDiscoveredDate": "2017-02-25T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 315
+            },
+            "imageInsightsToken": "ccid_e3vMf35T*cp_CDE7A79FD4DA39B37228DD98AC0F7A54*mid_54E184CA6D0CFA4516CA950BE9991C0E2BF61CFD*simid_608054652118052305*thid_OIP.e3vMf35TdT3UjhK2IXjnIwHaE7",
+            "insightsMetadata": {
+                "pagesIncludingCount": 3,
+                "availableSizesCount": 3
+            },
+            "imageId": "54E184CA6D0CFA4516CA950BE9991C0E2BF61CFD",
+            "accentColor": "078BC4"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=692861E607B1A5AD17A1C96BF40F3F47F0F0AC0F&simid=608034216677961226",
+            "name": "Conoce la playa más pequeña de México – El Heraldo de San ...",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.3evDI2Sr5oPGGO2tn9FB8wHaEq&pid=Api",
+            "datePublished": "2021-01-29T03:44:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://elheraldoslp.com.mx/wp-content/uploads/2018/06/s19-22.jpg",
+            "hostPageUrl": "https://elheraldoslp.com.mx/2018/06/27/conoce-la-playa-mas-pequena-de-mexico/",
+            "contentSize": "79145 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://elheraldoslp.com.mx/2018/06/27/conoce-la-playa-mas-pequena-de-mexico",
+            "width": 770,
+            "height": 485,
+            "hostPageDiscoveredDate": "2018-07-21T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 298
+            },
+            "imageInsightsToken": "ccid_3evDI2Sr*cp_69BE22D384762847DCFFD7593DDFB0B1*mid_692861E607B1A5AD17A1C96BF40F3F47F0F0AC0F*simid_608034216677961226*thid_OIP.3evDI2Sr5oPGGO2tn9FB8wHaEq",
+            "insightsMetadata": {
+                "pagesIncludingCount": 4,
+                "availableSizesCount": 2
+            },
+            "imageId": "692861E607B1A5AD17A1C96BF40F3F47F0F0AC0F",
+            "accentColor": "3B6790"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=0F84489017B06F72709EB403220C42BAB29D0B3D&simid=608045018512706364",
+            "name": "Playa de Tamarindo en Santa Cruz: 11 opiniones y 81 fotos",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.n4gBs7llOUhl8rghkPU5tgHaEd&pid=Api",
+            "datePublished": "2021-01-28T17:07:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://imgs-akamai.mnstatic.com/9a/9c/9a9cd7d4d66be87769d6143fe76b27cc.jpg?quality=75&format=pjpg&fit=bounds&width=980&height=880",
+            "hostPageUrl": "https://www.minube.com/rincon/playa-de-tamarindo-a144",
+            "contentSize": "50209 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://www.minube.com/rincon/playa-de-tamarindo-a144",
+            "width": 980,
+            "height": 590,
+            "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.ivdICo4_ua4bbSCKAPdVew&pid=Api",
+            "hostPageDiscoveredDate": "2017-10-16T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 285
+            },
+            "imageInsightsToken": "ccid_n4gBs7ll*cp_9E5BFB358908947722E20D535D1ECC21*mid_0F84489017B06F72709EB403220C42BAB29D0B3D*simid_608045018512706364*thid_OIP.n4gBs7llOUhl8rghkPU5tgHaEd",
+            "insightsMetadata": {
+                "pagesIncludingCount": 14,
+                "availableSizesCount": 3
+            },
+            "imageId": "0F84489017B06F72709EB403220C42BAB29D0B3D",
+            "accentColor": "2777A4"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=13D6130F591D615E52A4E8019E2CF2CA80033037&simid=608055193289121764",
+            "name": "Playa Madama - Holidays Samaná",
+            "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OIP.qEEX9KLMt8e5CPHV3HFd9QHaDz&pid=Api",
+            "datePublished": "2021-01-24T05:51:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://holidayssamana.com/wp-content/uploads/2020/06/Playa-Madama-2.jpg",
+            "hostPageUrl": "https://holidayssamana.com/las-galeras/playa-madama/",
+            "contentSize": "199946 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://holidayssamana.com/las-galeras/playa-madama",
+            "width": 1600,
+            "height": 823,
+            "hostPageDiscoveredDate": "2020-10-02T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 243
+            },
+            "imageInsightsToken": "ccid_qEEX9KLM*cp_A0EFBF5B6952329C374D62EE9C7FE61C*mid_13D6130F591D615E52A4E8019E2CF2CA80033037*simid_608055193289121764*thid_OIP.qEEX9KLMt8e5CPHV3HFd9QHaDz",
+            "insightsMetadata": {
+                "pagesIncludingCount": 3,
+                "availableSizesCount": 1
+            },
+            "imageId": "13D6130F591D615E52A4E8019E2CF2CA80033037",
+            "accentColor": "197BB2"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=01372CEB54F8AACBF56637B887ECFD702EE51C56&simid=608046130906206575",
+            "name": "Cómo pedir cita para la playa en Almería | Consultar el Aforo",
+            "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OIP.qYrNg9eLmNqT7UleJpdhNQHaEK&pid=Api",
+            "datePublished": "2020-11-08T02:36:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://ideasparaviajar.com/wp-content/uploads/2020/07/almer%C3%ADa-scaled.jpg",
+            "hostPageUrl": "http://ideasparaviajar.com/como-pedir-cita-para-ir-a-la-playa-en-almeria",
+            "contentSize": "96732 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "ideasparaviajar.com/como-pedir-cita-para-ir-a-la-playa-en-almeria",
+            "width": 1200,
+            "height": 675,
+            "hostPageDiscoveredDate": "2020-08-06T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 266
+            },
+            "imageInsightsToken": "ccid_qYrNg9eL*cp_CE6B937F7A59529B54C667BE0F4656F2*mid_01372CEB54F8AACBF56637B887ECFD702EE51C56*simid_608046130906206575*thid_OIP.qYrNg9eLmNqT7UleJpdhNQHaEK",
+            "insightsMetadata": {
+                "pagesIncludingCount": 19,
+                "availableSizesCount": 6
+            },
+            "imageId": "01372CEB54F8AACBF56637B887ECFD702EE51C56",
+            "accentColor": "0B84C0"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=FE363E088868E8BD68C1D2ED653818EDF2A28D44&simid=607989317101619065",
+            "name": "Playa Rajada, solitaria pero HERMOSA - Costa Rica News 24",
+            "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.E11gfE2K_fr8oTfBNmyFKAHaFj&pid=Api",
+            "datePublished": "2021-02-06T15:30:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "http://www.costaricanews24.com/wp-content/uploads/2020/02/IMG_7344-1024x768.jpg",
+            "hostPageUrl": "https://www.costaricanews24.com/destinos-costa-rica/playa-rajada-solitaria-pero-hermosa/",
+            "contentSize": "109765 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://www.costaricanews24.com/destinos-costa-rica/playa-rajada-solitaria-pero-hermosa",
+            "width": 1024,
+            "height": 768,
+            "hostPageDiscoveredDate": "2020-02-15T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 355
+            },
+            "imageInsightsToken": "ccid_E11gfE2K*cp_0531BC32EDBB3DC660146A63F44BA6BB*mid_FE363E088868E8BD68C1D2ED653818EDF2A28D44*simid_607989317101619065*thid_OIP.E11gfE2K!_fr8oTfBNmyFKAHaFj",
+            "insightsMetadata": {
+                "pagesIncludingCount": 6,
+                "availableSizesCount": 2
+            },
+            "imageId": "FE363E088868E8BD68C1D2ED653818EDF2A28D44",
+            "accentColor": "2A69A1"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=E8805C8E4AAE51A3FB370C458F61FA3B613CD1C0&simid=608049240470279164",
+            "name": "Lánzate a Playa Ventura, joya desconocida de Guerrero ...",
+            "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OIP.rzOa-SNYEAfxEtpl6zU8VgHaEM&pid=Api",
+            "datePublished": "2021-07-14T05:20:00.0000000Z",
+            "isFamilyFriendly": true,
+            "contentUrl": "https://mexicotravelchannel.com.mx/wp-content/uploads/2020/11/playa-ventura_mexico-travel-channel_1200x680.jpg",
+            "hostPageUrl": "https://mexicotravelchannel.com.mx/playas/20201109/lanzate-a-playa-ventura-en-guerrero/",
+            "contentSize": "60921 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://mexicotravelchannel.com.mx/playas/20201109/lanzate-a-playa-ventura-en-guerrero",
+            "width": 1200,
+            "height": 680,
+            "hostPageDiscoveredDate": "2020-11-18T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 268
+            },
+            "imageInsightsToken": "ccid_rzOa+SNY*cp_0899B7849091131CBCFBF20E5B720834*mid_E8805C8E4AAE51A3FB370C458F61FA3B613CD1C0*simid_608049240470279164*thid_OIP.rzOa-SNYEAfxEtpl6zU8VgHaEM",
+            "insightsMetadata": {
+                "pagesIncludingCount": 1,
+                "availableSizesCount": 2
+            },
+            "imageId": "E8805C8E4AAE51A3FB370C458F61FA3B613CD1C0",
+            "accentColor": "087382"
+        },
+        {
+            "webSearchUrl": "https://www.bing.com/images/search?view=detailv2&FORM=OIIRPO&q=playa&id=C86972C93F6E2D746ABEC166D3AE6D484D667376&simid=608002197689735923",
+            "name": "Playa Estacahuite - Wikipedia, la enciclopedia libre",
+            "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.H6-ZhfRSzrTmvfb9ucutJQHaFi&pid=Api",
+            "datePublished": "2021-03-10T14:16:00.0000000Z",
+            "isFamilyFriendly": true,
+            "creativeCommons": "AttributionShareAlike",
+            "contentUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Estacahuite.jpg",
+            "hostPageUrl": "https://es.wikipedia.org/wiki/Playa_Estacahuite",
+            "contentSize": "373443 B",
+            "encodingFormat": "jpeg",
+            "hostPageDisplayUrl": "https://es.wikipedia.org/wiki/Playa_Estacahuite",
+            "width": 1024,
+            "height": 765,
+            "hostPageFavIconUrl": "https://www.bing.com/th?id=ODF.8fAdq30EV4Gt1O_Tgee0vA&pid=Api",
+            "hostPageDiscoveredDate": "2017-01-30T00:00:00.0000000Z",
+            "thumbnail": {
+                "width": 474,
+                "height": 354
+            },
+            "imageInsightsToken": "ccid_H6+ZhfRS*cp_77ECA4F2BEF13FC75EB1167F9C3F841D*mid_C86972C93F6E2D746ABEC166D3AE6D484D667376*simid_608002197689735923*thid_OIP.H6-ZhfRSzrTmvfb9ucutJQHaFi",
+            "insightsMetadata": {
+                "pagesIncludingCount": 1,
+                "availableSizesCount": 1
+            },
+            "imageId": "C86972C93F6E2D746ABEC166D3AE6D484D667376",
+            "accentColor": "9A4331"
+        }
+    ]
+}

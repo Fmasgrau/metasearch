@@ -1,10 +1,11 @@
 import { configureStore } from '@reduxjs/toolkit'
 import SearchBarReducer from './Reducers/SearchBox/SearchBoxReducer'
-
+import ResultTableReducer from './Reducers/ResultTable/ResultTableReducer'
 
 const store = configureStore({
     reducer: {
-        searchbox: SearchBarReducer
+        searchbox: SearchBarReducer,
+        resulttable: ResultTableReducer
     }
 })
 
