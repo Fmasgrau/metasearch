@@ -9,7 +9,10 @@ import {
     searchText,
     itemSelected,
 } from '../../Redux/Actions/SearchBox/SearchBoxAction'
-import { fetchBingImages } from '../../Redux/Actions/ResultTable/ResultTableAction'
+import {
+    fetchBingImages,
+    fetchingGoogleImages,
+} from '../../Redux/Actions/ResultTable/ResultTableAction'
 
 export default function SearchBox(): JSX.Element {
     const [isDisableButton, setIsDisableButton] = useState(true)
@@ -37,7 +40,9 @@ export default function SearchBox(): JSX.Element {
     }, [textFromSearchBox, itemSelectedFromSearchBox])
 
     const onSubmit = (): void => {
-        dispatch(fetchBingImages({ query: 'playa' }))
+        dispatch(fetchBingImages({ query: textFromSearchBox }))
+        dispatch(fetchingGoogleImages({ query: textFromSearchBox }))
+
         // console.log('Submit button', searchValue, selectedValue)
     }
 

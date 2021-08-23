@@ -1,0 +1,74 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - playa",
+                "totalResults": "2",
+                "searchTerms": "playa",
+                "count": 2,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "4cf935c13c0e105dc",
+                "searchType": "image"
+            }
+        ]
+    },
+    "context": {
+        "title": "Google"
+    },
+    "searchInformation": {
+        "searchTime": 0.740543,
+        "formattedSearchTime": "0.74",
+        "totalResults": "2",
+        "formattedTotalResults": "2"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "Google Maps",
+            "htmlTitle": "Google Maps",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMt8CjKRwvYfY7eCUTAHLX97gHrI2_OLfXlCaE=w600-h988-p-k-no",
+            "displayLink": "www.google.com",
+            "snippet": "Google Maps",
+            "htmlSnippet": "Google Maps",
+            "mime": "image/",
+            "fileFormat": "image/",
+            "image": {
+                "contextLink": "https://www.google.com/maps/contrib/116044298414824729318",
+                "height": 988,
+                "width": 600,
+                "byteSize": 142777,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtk-WlVP3vgRInjqU6MT88Po16gq2ypRfOYeou08ThC2xJYuSyoEFBRA&s",
+                "thumbnailHeight": 149,
+                "thumbnailWidth": 90
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Playa Canek Beachfront Eco Hotel",
+            "htmlTitle": "<b>Playa</b> Canek Beachfront Eco Hotel",
+            "link": "https://lh5.googleusercontent.com/proxy/Vy8k1Wr9KRTc4VmHU_7yZ2MrBP_TSviULGN8uifL8Qf-VdRXre8bMD_JZ1QLlE7jfZCpT0q1_RnTqPURYJKX1lfvt59wf2Su1-41RMO-2ru4TigLvU33YJVhJZAhLhw4iOn9KyONZ4RpI2W-FBvEh4R5H14L4Q=w296-h202-n-k-no-v1",
+            "displayLink": "www.google.com",
+            "snippet": "Playa Canek Beachfront Eco Hotel",
+            "htmlSnippet": "<b>Playa</b> Canek Beachfront Eco Hotel",
+            "mime": "image/",
+            "fileFormat": "image/",
+            "image": {
+                "contextLink": "https://www.google.com/travel/hotels/entity/CgoIuPDjxrq7qsJMEAE/reviews?g2lb=2502404%2C2502547%2C4208993%2C4253230%2C4253565%2C4254308%2C4258168%2C4260007%2C4266810%2C4270442%2C4274032%2C4276661%2C4282188%2C4282357%2C4285990%2C4287732%2C4288958%2C4291318%2C4296668%2C4301054%2C4303135%2C4303775%2C4256180%2C4270859%2C4284970%2C4291517&hl=en&gl=mx&un=1&rp=ELjw48a6u6rCTDgCQABIAQ&ictx=1&ved=2ahUKEwjzrbmPnsfkAhUvqlkKHd1OCYYQwcEEKAEwGXoECBEQAg&hrf=KhYKBwjjDxAJGBASBwjjDxAJGBEYASACggElMHg4ZjRmZDBjYzg2ZDc5NTM3OjB4NGM4NGE5ZGJhOGQ4ZjgzOJoBJxolMHg4ZjRmZDBjYzg2ZDc5NTM3OjB4NGM4NGE5ZGJhOGQ4ZjgzOA&tcfs=EhoaGAoKMjAxOS0wOS0xNhIKMjAxOS0wOS0xN1IA",
+                "height": 202,
+                "width": 296,
+                "byteSize": 20561,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyzXcrNpFG-EOmYLeZufrYve8ZLuLzwiO699wsznmCc51KU-TUg8_J8g&s",
+                "thumbnailHeight": 79,
+                "thumbnailWidth": 116
+            }
+        }
+    ]
+}
