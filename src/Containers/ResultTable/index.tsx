@@ -1,7 +1,7 @@
 import React from 'react'
 import ItemList from '../../Components/ItemList'
 
-export default function ResltTable(): JSX.Element {
+export default function ResultTable(): JSX.Element {
     return (
         <>
             <h1 className="fw-light text-center text-lg-start mt-4 mb-0">

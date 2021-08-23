@@ -14,6 +14,7 @@ export default function DropDown({
     onSelectChange,
     options,
 }: DropDownProps): JSX.Element {
+    // eslint-disable-next-line
     const handleChange = (event: any): void => {
         const selectedValue = event.target.value
         onSelectChange(selectedValue)

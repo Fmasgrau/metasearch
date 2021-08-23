@@ -1,25 +1,53 @@
-import React, { useState } from 'react'
+/* eslint-disable @typescript-eslint/no-explicit-any */
+import React, { useEffect, useState } from 'react'
 import Button from '../../Components/Button'
 import DropDown from '../../Components/Dropdown'
 import Header from '../../Components/Header'
 import SearchBar from '../../Components/SearchBar'
+import { useAppSelector, useAppDispatch } from '../../Redux/hooks'
+
+import {
+    searchText,
+    itemSelected,
+} from '../../Redux/Actions/SearchBox/SearchBoxAction'
 
 export default function SearchBox(): JSX.Element {
-    const [searchValue, setSearchValue] = useState('')
-    const [selectedValue, setSelectedValue] = useState('')
+    const [isDisableButton, setIsDisableButton] = useState(true)
+
+    const dispatch = useAppDispatch()
+
+    const textFromSearchBox = useAppSelector(
+        (state) => state.searchbox.searchText
+    )
+
+    const itemSelectedFromSearchBox = useAppSelector(
+        (state) => state.searchbox.itemSelected
+    )
+
+    useEffect(() => {
+        if (
+            itemSelectedFromSearchBox !== '' &&
+            textFromSearchBox !== '' &&
+            itemSelectedFromSearchBox !== 'Select Item'
+        ) {
+            setIsDisableButton(false)
+        } else {
+            setIsDisableButton(true)
+        }
+    }, [textFromSearchBox, itemSelectedFromSearchBox])
 
     const onSubmit = (): void => {
-        console.log('Submit button', searchValue, selectedValue)
+        // console.log('Submit button', searchValue, selectedValue)
     }
 
     const handleSelect = (event: any): void => {
-        setSelectedValue(event)
-        console.log(event)
+        dispatch(itemSelected(event))
+        // console.log(event)
     }
 
     const handleChangeSearch = (event: any): void => {
-        setSearchValue(event.target.value)
-        console.log(event.target.value)
+        dispatch(searchText(event.target.value))
+        // console.log(event.target.value)
     }
 
     return (
@@ -31,7 +59,7 @@ export default function SearchBox(): JSX.Element {
                         type="search"
                         placeholder="Search images"
                         onChange={handleChangeSearch}
-                        value={searchValue}
+                        value={textFromSearchBox}
                     />
                 }
                 dropDown={
@@ -44,7 +72,11 @@ export default function SearchBox(): JSX.Element {
                         onSelectChange={handleSelect}
                     />
                 }
-                button={<Button onClick={onSubmit}>Submit</Button>}
+                button={
+                    <Button onClick={onSubmit} disabled={isDisableButton}>
+                        Submit
+                    </Button>
+                }
             />
         </>
     )

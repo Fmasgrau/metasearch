@@ -5,6 +5,7 @@ export default function Button({
     type,
     onClick,
     children,
+    disabled,
 }: React.ButtonHTMLAttributes<HTMLButtonElement>): JSX.Element {
     return (
         <>
@@ -12,6 +13,7 @@ export default function Button({
                 type={type}
                 onClick={onClick}
                 className="btn btn-lg btn-success"
+                disabled={disabled}
             >
                 {children}
             </button>
