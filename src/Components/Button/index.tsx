@@ -8,6 +8,7 @@ export default function Button({
     disabled,
     className,
     onKeyDown,
+    name,
 }: React.ButtonHTMLAttributes<HTMLButtonElement>): JSX.Element {
     return (
         <>
@@ -17,6 +18,7 @@ export default function Button({
                 className={className}
                 disabled={disabled}
                 onKeyDown={onKeyDown}
+                name={name}
             >
                 {children}
             </button>

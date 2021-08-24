@@ -88,6 +88,7 @@ export default function SearchBox(): JSX.Element {
                         onClick={onSubmit}
                         disabled={isDisableButton}
                         className="btn btn-sm bg-primary"
+                        name="submit"
                     >
                         <SearchIcon className="w-100 h-100" color="white" />
                     </Button>
