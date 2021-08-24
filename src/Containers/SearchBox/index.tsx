@@ -14,6 +14,7 @@ import {
     fetchingGoogleImages,
     isSearching,
 } from '../../Redux/Actions/ResultTable/ResultTableAction'
+import SearchIcon from '../../Assets/SearchIcon'
 
 export default function SearchBox(): JSX.Element {
     const [isDisableButton, setIsDisableButton] = useState(true)
@@ -83,8 +84,12 @@ export default function SearchBox(): JSX.Element {
                     />
                 }
                 button={
-                    <Button onClick={onSubmit} disabled={isDisableButton}>
-                        Submit
+                    <Button
+                        onClick={onSubmit}
+                        disabled={isDisableButton}
+                        className="btn btn-sm bg-primary"
+                    >
+                        <SearchIcon className="w-100 h-100" color="white" />
                     </Button>
                 }
             />

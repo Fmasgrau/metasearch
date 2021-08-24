@@ -7,17 +7,14 @@ import $ from 'jquery'
 // eslint-disable-next-line
 import Popper from 'popper.js'
 import 'bootstrap/dist/js/bootstrap.bundle.min'
-
 import SearchBox from './Containers/SearchBox'
 import ResultTable from './Containers/ResultTable'
+import Layout from './Components/Layout'
 
 function App(): JSX.Element {
     return (
         <>
-            <div className="container">
-                <SearchBox />
-                <ResultTable />
-            </div>
+            <Layout header={<SearchBox />} body={<ResultTable />} />
         </>
     )
 }

@@ -7,16 +7,32 @@
     "queries": {
         "request": [
             {
-                "title": "Google Custom Search - playa",
-                "totalResults": "2",
-                "searchTerms": "playa",
-                "count": 2,
+                "title": "Google Custom Search - river",
+                "totalResults": "4850000000",
+                "searchTerms": "river",
+                "count": 10,
                 "startIndex": 1,
                 "inputEncoding": "utf8",
                 "outputEncoding": "utf8",
                 "safe": "off",
                 "cx": "4cf935c13c0e105dc",
-                "searchType": "image"
+                "searchType": "image",
+                "imgSize": "xlarge"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - river",
+                "totalResults": "4850000000",
+                "searchTerms": "river",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "4cf935c13c0e105dc",
+                "searchType": "image",
+                "imgSize": "xlarge"
             }
         ]
     },
@@ -24,50 +40,210 @@
         "title": "Google"
     },
     "searchInformation": {
-        "searchTime": 0.740543,
-        "formattedSearchTime": "0.74",
-        "totalResults": "2",
-        "formattedTotalResults": "2"
+        "searchTime": 0.618331,
+        "formattedSearchTime": "0.62",
+        "totalResults": "4850000000",
+        "formattedTotalResults": "4,850,000,000"
     },
     "items": [
         {
             "kind": "customsearch#result",
-            "title": "Google Maps",
-            "htmlTitle": "Google Maps",
-            "link": "https://lh5.googleusercontent.com/p/AF1QipMt8CjKRwvYfY7eCUTAHLX97gHrI2_OLfXlCaE=w600-h988-p-k-no",
-            "displayLink": "www.google.com",
-            "snippet": "Google Maps",
-            "htmlSnippet": "Google Maps",
-            "mime": "image/",
-            "fileFormat": "image/",
+            "title": "Longest Rivers In New Zealand - WorldAtlas",
+            "htmlTitle": "Longest <b>Rivers</b> In New Zealand - WorldAtlas",
+            "link": "https://www.worldatlas.com/r/w1200/upload/46/f3/08/waikato-river-new-zealand.jpg",
+            "displayLink": "www.worldatlas.com",
+            "snippet": "Longest Rivers In New Zealand - WorldAtlas",
+            "htmlSnippet": "Longest <b>Rivers</b> In New Zealand - WorldAtlas",
+            "mime": "image/jpeg",
+            "fileFormat": "image/jpeg",
             "image": {
-                "contextLink": "https://www.google.com/maps/contrib/116044298414824729318",
-                "height": 988,
-                "width": 600,
-                "byteSize": 142777,
-                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtk-WlVP3vgRInjqU6MT88Po16gq2ypRfOYeou08ThC2xJYuSyoEFBRA&s",
-                "thumbnailHeight": 149,
-                "thumbnailWidth": 90
+                "contextLink": "https://www.worldatlas.com/articles/longest-rivers-in-new-zealand.html",
+                "height": 642,
+                "width": 1100,
+                "byteSize": 187424,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrR_wiUvbtr6IVPYJOqPgV6uwQJB2pZ8zSlhN0-f0utsjsSy5G9H9POg&s",
+                "thumbnailHeight": 88,
+                "thumbnailWidth": 150
             }
         },
         {
             "kind": "customsearch#result",
-            "title": "Playa Canek Beachfront Eco Hotel",
-            "htmlTitle": "<b>Playa</b> Canek Beachfront Eco Hotel",
-            "link": "https://lh5.googleusercontent.com/proxy/Vy8k1Wr9KRTc4VmHU_7yZ2MrBP_TSviULGN8uifL8Qf-VdRXre8bMD_JZ1QLlE7jfZCpT0q1_RnTqPURYJKX1lfvt59wf2Su1-41RMO-2ru4TigLvU33YJVhJZAhLhw4iOn9KyONZ4RpI2W-FBvEh4R5H14L4Q=w296-h202-n-k-no-v1",
-            "displayLink": "www.google.com",
-            "snippet": "Playa Canek Beachfront Eco Hotel",
-            "htmlSnippet": "<b>Playa</b> Canek Beachfront Eco Hotel",
+            "title": "Rogue River Permits | Bureau of Land Management",
+            "htmlTitle": "Rogue <b>River</b> Permits | Bureau of Land Management",
+            "link": "https://www.blm.gov/sites/blm.gov/files/styles/hero_lg_content/public/uploads/NatWildScenic_Oregon_Rogue_10242016.jpg?h=28740d13&itok=xrqm86BE",
+            "displayLink": "www.blm.gov",
+            "snippet": "Rogue River Permits | Bureau of Land Management",
+            "htmlSnippet": "Rogue <b>River</b> Permits | Bureau of Land Management",
+            "mime": "image/jpeg",
+            "fileFormat": "image/jpeg",
+            "image": {
+                "contextLink": "https://www.blm.gov/programs/recreation/permits-and-passes/lotteries-and-permit-systems/oregon-washington/rogue-river",
+                "height": 470,
+                "width": 1200,
+                "byteSize": 117889,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxI67zh6YXxD2CRcALpaKofxixXFE5OKLmOP9OYljEdcuvb3dNNDJMfg&s",
+                "thumbnailHeight": 59,
+                "thumbnailWidth": 150
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Understanding Rivers | National Geographic Society",
+            "htmlTitle": "Understanding <b>Rivers</b> | National Geographic Society",
+            "link": "https://media.nationalgeographic.org/assets/photos/000/281/28106.jpg",
+            "displayLink": "www.nationalgeographic.org",
+            "snippet": "Understanding Rivers | National Geographic Society",
+            "htmlSnippet": "Understanding <b>Rivers</b> | National Geographic Society",
+            "mime": "image/jpeg",
+            "fileFormat": "image/jpeg",
+            "image": {
+                "contextLink": "https://www.nationalgeographic.org/article/understanding-rivers/",
+                "height": 743,
+                "width": 990,
+                "byteSize": 98816,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZ6V2oFCrdvl4OSIZTcGIVI2jAwpiuG7FGxs2T6undyO_vrmz51LaZA&s",
+                "thumbnailHeight": 112,
+                "thumbnailWidth": 149
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Rotten river: life on one of the world's most polluted waterways ...",
+            "htmlTitle": "Rotten <b>river</b>: life on one of the world&#39;s most polluted waterways ...",
+            "link": "https://i.guim.co.uk/img/media/48064984903c6c0b861f3e6cbed4d38f75ba3ddf/540_1061_1566_939/master/1566.jpg?width=465&quality=45&auto=format&fit=max&dpr=2&s=1d934a66e0f2478c2c81759709d1d018",
+            "displayLink": "www.theguardian.com",
+            "snippet": "Rotten river: life on one of the world's most polluted waterways ...",
+            "htmlSnippet": "Rotten <b>river</b>: life on one of the world&#39;s most polluted waterways ...",
+            "mime": "image/jpeg",
+            "fileFormat": "image/jpeg",
+            "image": {
+                "contextLink": "https://www.theguardian.com/global-development/2020/nov/02/rotten-river-life-on-one-of-the-worlds-most-polluted-waterways-photo-essay",
+                "height": 558,
+                "width": 930,
+                "byteSize": 57352,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEzwe-qiZQKV8wqY4Tqjz-0JmZ68zkRJXZKOOjAlAv5wQqgPE4FjfTdkg&s",
+                "thumbnailHeight": 88,
+                "thumbnailWidth": 147
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Mountain River Pictures | Download Free Images on Unsplash",
+            "htmlTitle": "Mountain <b>River</b> Pictures | Download Free Images on Unsplash",
+            "link": "https://images.unsplash.com/photo-1593948360735-4ddb6f0dde7d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bW91bnRhaW4lMjByaXZlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+            "displayLink": "unsplash.com",
+            "snippet": "Mountain River Pictures | Download Free Images on Unsplash",
+            "htmlSnippet": "Mountain <b>River</b> Pictures | Download Free Images on Unsplash",
             "mime": "image/",
             "fileFormat": "image/",
             "image": {
-                "contextLink": "https://www.google.com/travel/hotels/entity/CgoIuPDjxrq7qsJMEAE/reviews?g2lb=2502404%2C2502547%2C4208993%2C4253230%2C4253565%2C4254308%2C4258168%2C4260007%2C4266810%2C4270442%2C4274032%2C4276661%2C4282188%2C4282357%2C4285990%2C4287732%2C4288958%2C4291318%2C4296668%2C4301054%2C4303135%2C4303775%2C4256180%2C4270859%2C4284970%2C4291517&hl=en&gl=mx&un=1&rp=ELjw48a6u6rCTDgCQABIAQ&ictx=1&ved=2ahUKEwjzrbmPnsfkAhUvqlkKHd1OCYYQwcEEKAEwGXoECBEQAg&hrf=KhYKBwjjDxAJGBASBwjjDxAJGBEYASACggElMHg4ZjRmZDBjYzg2ZDc5NTM3OjB4NGM4NGE5ZGJhOGQ4ZjgzOJoBJxolMHg4ZjRmZDBjYzg2ZDc5NTM3OjB4NGM4NGE5ZGJhOGQ4ZjgzOA&tcfs=EhoaGAoKMjAxOS0wOS0xNhIKMjAxOS0wOS0xN1IA",
-                "height": 202,
-                "width": 296,
-                "byteSize": 20561,
-                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyzXcrNpFG-EOmYLeZufrYve8ZLuLzwiO699wsznmCc51KU-TUg8_J8g&s",
+                "contextLink": "https://unsplash.com/s/photos/mountain-river",
+                "height": 667,
+                "width": 1000,
+                "byteSize": 154957,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-PEYSmCLKy3spqpYxFel8uCDYvMZfu8RddbjKRbnhnxQCbJ_VHSgw0jg&s",
+                "thumbnailHeight": 99,
+                "thumbnailWidth": 149
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "AP PHOTOS: Swollen rivers smash through parts of Europe",
+            "htmlTitle": "AP PHOTOS: Swollen <b>rivers</b> smash through parts of Europe",
+            "link": "https://storage.googleapis.com/afs-prod/media/99927cbb10264fc2b113ac42559ef6c6/800.jpeg",
+            "displayLink": "apnews.com",
+            "snippet": "AP PHOTOS: Swollen rivers smash through parts of Europe",
+            "htmlSnippet": "AP PHOTOS: Swollen <b>rivers</b> smash through parts of Europe",
+            "mime": "image/jpeg",
+            "fileFormat": "image/jpeg",
+            "image": {
+                "contextLink": "https://apnews.com/article/europe-business-government-and-politics-environment-and-nature-7a513d2dc9f03a673dc7be8297a1e0bf",
+                "height": 615,
+                "width": 800,
+                "byteSize": 107962,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnnN2LtsD8mJgCXWpjEyhTXVNHa26r8mkseTJ9-yn6YE0hcrZ4Zx2ohcI&s",
+                "thumbnailHeight": 110,
+                "thumbnailWidth": 143
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Groundwater pumping is draining rivers and streams worldwide ...",
+            "htmlTitle": "Groundwater pumping is draining <b>rivers</b> and streams worldwide ...",
+            "link": "https://www.sciencenewsforstudents.org/wp-content/uploads/2019/11/100819_JL_groundwater_feat-1028x579.jpg",
+            "displayLink": "www.sciencenewsforstudents.org",
+            "snippet": "Groundwater pumping is draining rivers and streams worldwide ...",
+            "htmlSnippet": "Groundwater pumping is draining <b>rivers</b> and streams worldwide ...",
+            "mime": "image/jpeg",
+            "fileFormat": "image/jpeg",
+            "image": {
+                "contextLink": "https://www.sciencenewsforstudents.org/article/groundwater-pumping-draining-rivers-and-streams-worldwide",
+                "height": 579,
+                "width": 1028,
+                "byteSize": 140749,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL2zKXmercjT3RMy5owb3fF06WulwlsDcd76XjNoBXpXgYI16SPZSq9Q&s",
+                "thumbnailHeight": 84,
+                "thumbnailWidth": 150
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Along the Peace River in Punta Gorda | VISIT FLORIDA",
+            "htmlTitle": "Along the Peace <b>River</b> in Punta Gorda | VISIT FLORIDA",
+            "link": "https://www.visitflorida.com/content/dam/visitflorida/en-us/images/articles/2016/freelance/peace-river-julie-fletcher.jpg.1200.630.rendition",
+            "displayLink": "www.visitflorida.com",
+            "snippet": "Along the Peace River in Punta Gorda | VISIT FLORIDA",
+            "htmlSnippet": "Along the Peace <b>River</b> in Punta Gorda | VISIT FLORIDA",
+            "mime": "image/",
+            "fileFormat": "image/",
+            "image": {
+                "contextLink": "https://www.visitflorida.com/en-us/cities/punta-gorda/along-the-peace-river.html",
+                "height": 630,
+                "width": 1200,
+                "byteSize": 107442,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcfDYZPG0OSn6cNk29D18WQYFU9iP03mgzDc7t788lWFYXXZK5_iz9-Q&s",
                 "thumbnailHeight": 79,
-                "thumbnailWidth": 116
+                "thumbnailWidth": 150
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Smith River State Park | Montana FWP",
+            "htmlTitle": "Smith <b>River</b> State Park | Montana FWP",
+            "link": "https://fwp.mt.gov/binaries/content/gallery/mtfwpproject/fwpimageset/imagegalleries/stateparks/smithriver/smithriverpaddle.jpg",
+            "displayLink": "fwp.mt.gov",
+            "snippet": "Smith River State Park | Montana FWP",
+            "htmlSnippet": "Smith <b>River</b> State Park | Montana FWP",
+            "mime": "image/jpeg",
+            "fileFormat": "image/jpeg",
+            "image": {
+                "contextLink": "https://fwp.mt.gov/stateparks/smith-river",
+                "height": 600,
+                "width": 900,
+                "byteSize": 225237,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTavVU8IHDFboFzDZryTxRnTUV7deAgQ_TFDU45j9xCno_tqmkualMrzg&s",
+                "thumbnailHeight": 97,
+                "thumbnailWidth": 146
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Gulkana Wild and Scenic River | Bureau of Land Management",
+            "htmlTitle": "Gulkana Wild and Scenic <b>River</b> | Bureau of Land Management",
+            "link": "https://www.blm.gov/sites/blm.gov/files/styles/hero_lg_content/public/NLCS_Alaska_Gulkana_WSR.jpg?h=199d8c1f&itok=OwWUb6C8",
+            "displayLink": "www.blm.gov",
+            "snippet": "Gulkana Wild and Scenic River | Bureau of Land Management",
+            "htmlSnippet": "Gulkana Wild and Scenic <b>River</b> | Bureau of Land Management",
+            "mime": "image/jpeg",
+            "fileFormat": "image/jpeg",
+            "image": {
+                "contextLink": "https://www.blm.gov/programs/national-conservation-lands/alaska/gulkana-wsr",
+                "height": 470,
+                "width": 1200,
+                "byteSize": 127262,
+                "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr-ByuxU6yUnfMBUnNb5exqnMfJmKh0zxXWexFnMyKClVTqShR07zplpk&s",
+                "thumbnailHeight": 59,
+                "thumbnailWidth": 150
             }
         }
     ]

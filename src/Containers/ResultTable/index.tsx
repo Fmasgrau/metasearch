@@ -9,13 +9,13 @@ export default function ResultTable(): JSX.Element {
         (state) => state.resulttable.googleImages
     )
 
-    const isLoadingSelector = useAppSelector(
-        (state) => state.resulttable.isLoading
-    )
-
     const showItems = Items.map((res) => (
         <ItemList url={res.thumbnailUrl} alt={res.name} />
     ))
+
+    // const fakeItems = FakeItems.items.map((response) => (
+    //     <ItemList url={response?.image?.thumbnailLink} alt={response.title} />
+    // ))
 
     const showGoogleItems = GoogleItems.map((response) => (
         <ItemList url={response?.image?.thumbnailLink} alt={response.title} />
@@ -23,12 +23,7 @@ export default function ResultTable(): JSX.Element {
 
     return (
         <>
-            <h1 className="fw-light text-center text-lg-start mt-4 mb-0">
-                Results:
-            </h1>
-            <br />
             <div className="row text-center text-lg-start">
-                {isLoadingSelector && <>Cargando...</>}
                 {showGoogleItems}
                 {showItems}
             </div>
