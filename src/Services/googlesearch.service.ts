@@ -1,21 +1,6 @@
 import { GoogleSearchApi } from "./api"
+import { IGetImages, IGoogleResponse } from "../Entities/googleservice"
 
-interface IGetImages {
-    query: string
-}
-
-interface IImageResponse {
-    thumbnailLink: string
-}
-
-interface IValueResponse {
-    image: IImageResponse,
-    title: string
-}
-
-interface IGoogleResponse {
-    items: IValueResponse[]
-}
 
 export const getImagesFromGoogle = async ({ query }: IGetImages): Promise<IGoogleResponse> => {
 

@@ -1,17 +1,5 @@
 import { BingApi } from "./api"
-
-interface IGetImages {
-    query: string
-}
-
-interface IValueResponse {
-    thumbnailUrl: string,
-    name: string
-}
-
-interface IBingResponse {
-    value: IValueResponse[]
-}
+import { IGetImages, IBingResponse } from "../Entities/bingservices"
 
 export const getImages = async ({ query }: IGetImages): Promise<IBingResponse> => {
 
