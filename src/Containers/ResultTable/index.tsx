@@ -18,10 +18,6 @@ export default function ResultTable(): JSX.Element {
         />
     ))
 
-    // const fakeItems = FakeItems.items.map((response) => (
-    //     <ItemList url={response?.image?.thumbnailLink} alt={response.title} />
-    // ))
-
     const showGoogleItems = GoogleItems.map((response, index) => (
         <ItemList
             url={response?.image?.thumbnailLink}
@@ -32,10 +28,8 @@ export default function ResultTable(): JSX.Element {
 
     return (
         <>
-            <div className="row text-center text-lg-start">
-                {showGoogleItems}
-                {showItems}
-            </div>
+            {showGoogleItems}
+            {showItems}
         </>
     )
 }
