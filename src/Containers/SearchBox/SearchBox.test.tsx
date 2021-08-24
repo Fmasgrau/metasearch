@@ -1,5 +1,6 @@
+/* eslint-disable import/no-extraneous-dependencies */
 import React from 'react'
-import { screen, render, fireEvent } from '@testing-library/react'
+import { screen, render } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import ProviderForTest from '../../Helpers/ProviderForTest'
 import SearchBox from '.'
