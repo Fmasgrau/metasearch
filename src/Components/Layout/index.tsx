@@ -2,6 +2,7 @@ import React from 'react'
 import LoadingOverlay from 'react-loading-overlay'
 import PacmanLoader from 'react-spinners/PacmanLoader'
 import { useAppSelector } from '../../Redux/hooks'
+import CoverPhoto from '../../Assets/coverphotocanvas.png'
 
 interface ILayoutProps {
     header: JSX.Element
@@ -20,6 +21,9 @@ export default function Layout({ header, body }: ILayoutProps): JSX.Element {
             className="vh-100"
         >
             <div className="container">
+                <div className="d-flex justify-content-center mt-2">
+                    <img src={CoverPhoto} alt="coverphoto" width="100%" />
+                </div>
                 <div className="row d-flex justify-content-center">
                     {header}
                 </div>
