@@ -28,6 +28,7 @@ export default function DropDown({
 
     return (
         <select
+            id="dropdown"
             name="customSearch"
             className="form-control form-control-lg form-control-borderless"
             onChange={handleChange}

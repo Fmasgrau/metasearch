@@ -15,13 +15,6 @@ beforeEach(() =>
 
 describe('Searchbox', () => {
     describe('UI', () => {
-        it('Must render the component', () => {
-            render(
-                <ProviderForTest>
-                    <SearchBox />
-                </ProviderForTest>
-            )
-        })
         it('Must render a searchbox input', () => {
             const searchInput = screen.getByRole('searchbox')
             expect(searchInput).toBeInTheDocument()
