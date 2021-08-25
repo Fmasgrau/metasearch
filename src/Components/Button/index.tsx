@@ -19,6 +19,7 @@ export default function Button({
                 disabled={disabled}
                 onKeyDown={onKeyDown}
                 name={name}
+                aria-label={name}
             >
                 {children}
             </button>

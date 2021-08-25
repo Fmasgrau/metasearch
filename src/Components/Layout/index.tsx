@@ -20,7 +20,7 @@ export default function Layout({ header, body }: ILayoutProps): JSX.Element {
             spinner={<PacmanLoader size={50} color="yellow" />}
             className="vh-100"
         >
-            <div className="container">
+            <main className="container">
                 <div className="d-flex justify-content-center mt-2">
                     <img src={CoverPhoto} alt="coverphoto" width="100%" />
                 </div>
@@ -30,7 +30,7 @@ export default function Layout({ header, body }: ILayoutProps): JSX.Element {
                 <div className="row mb-3 d-flex justify-content-center">
                     {body}
                 </div>
-            </div>
+            </main>
         </LoadingOverlay>
     )
 }

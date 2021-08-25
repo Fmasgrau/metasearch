@@ -31,6 +31,7 @@ export default function DropDown({
             name="customSearch"
             className="form-control form-control-lg form-control-borderless"
             onChange={handleChange}
+            aria-label="customSearch"
         >
             <option>Select Item</option>
             {displayOptions}
