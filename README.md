@@ -13,7 +13,7 @@ Use this Web Application for search the best images using Bing and Google as sea
 ## Steps:
 
 Put what you want to search, then select the search engine to disable the search button. After that click on the search Icon and wait.
-**That's ll!**
+**That's all!**
 
 **Do you want to run the project? Clone this and follow the instructions below.**
 
