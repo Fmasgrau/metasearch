@@ -18,22 +18,34 @@ interface IValueResponse {
 }
 interface SearchBoxState {
 
-    list: IValueResponse[],
+    bingImages: IValueResponse[],
     googleImages: IGoogleResponse[],
     isLoading: boolean
 }
 
 // Define the initial state using that type
 const initialState: SearchBoxState = {
-    list: [],
+    bingImages: [],
     googleImages: [],
     isLoading: false
 }
 
 const searchbarReducer = createReducer<SearchBoxState>(initialState, builder =>
     builder
+        .addCase(fetchBingImages.pending, (state) => {
+            state.isLoading = true
+        })
+        .addCase(fetchBingImages.rejected, (state) => {
+            state.isLoading = false
+        })
         .addCase(fetchBingImages.fulfilled, (state, action) => {
-            state.list = action.payload
+            state.bingImages = action.payload
+            state.isLoading = false
+        })
+        .addCase(fetchingGoogleImages.pending, (state) => {
+            state.isLoading = true
+        })
+        .addCase(fetchingGoogleImages.rejected, (state) => {
             state.isLoading = false
         })
         .addCase(fetchingGoogleImages.fulfilled, (state, action) => {
@@ -42,7 +54,7 @@ const searchbarReducer = createReducer<SearchBoxState>(initialState, builder =>
         })
         .addCase(isSearching, (state) => {
             state.googleImages = []
-            state.list = []
+            state.bingImages = []
             state.isLoading = true
         })
 )

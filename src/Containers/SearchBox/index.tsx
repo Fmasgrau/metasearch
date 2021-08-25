@@ -29,6 +29,12 @@ export default function SearchBox(): JSX.Element {
         (state) => state.searchbox.itemSelected
     )
 
+    const OPTIONS = [
+        { id: 'Google', name: 'Google' },
+        { id: 'Bing', name: 'Bing' },
+        { id: 'Both', name: 'Both' },
+    ]
+
     useEffect(() => {
         if (
             itemSelectedFromSearchBox !== '' &&
@@ -75,11 +81,9 @@ export default function SearchBox(): JSX.Element {
                 }
                 dropDown={
                     <DropDown
-                        options={[
-                            { id: 'Google', name: 'Google' },
-                            { id: 'Bing', name: 'Bing' },
-                            { id: 'Both', name: 'Both' },
-                        ]}
+                        name="customSearch"
+                        id="dropdown"
+                        options={OPTIONS}
                         onSelectChange={handleSelect}
                     />
                 }
@@ -87,7 +91,6 @@ export default function SearchBox(): JSX.Element {
                     <Button
                         onClick={onSubmit}
                         disabled={isDisableButton}
-                        className="btn btn-sm bg-primary"
                         name="submit"
                     >
                         <SearchIcon className="w-100 h-100" color="white" />

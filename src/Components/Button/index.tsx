@@ -26,3 +26,7 @@ export default function Button({
         </>
     )
 }
+
+Button.defaultProps = {
+    className: 'btn btn-sm bg-primary',
+}

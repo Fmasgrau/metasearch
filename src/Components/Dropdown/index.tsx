@@ -8,11 +8,19 @@ interface Options {
 interface DropDownProps {
     onSelectChange: (value: string) => void
     options: Options[]
+    id: string
+    name: string
+    classname?: string
+    firstElement?: string
 }
 
 export default function DropDown({
     onSelectChange,
     options,
+    id,
+    name,
+    classname,
+    firstElement,
 }: DropDownProps): JSX.Element {
     // eslint-disable-next-line
     const handleChange = (event: any): void => {
@@ -28,14 +36,19 @@ export default function DropDown({
 
     return (
         <select
-            id="dropdown"
-            name="customSearch"
-            className="form-control form-control-lg form-control-borderless"
+            id={id}
+            name={name}
+            className={classname}
             onChange={handleChange}
-            aria-label="customSearch"
+            aria-label={name}
         >
-            <option>Select Item</option>
+            <option>{firstElement}</option>
             {displayOptions}
         </select>
     )
+}
+
+DropDown.defaultProps = {
+    classname: 'form-control form-control-lg form-control-borderless',
+    firstElement: 'Select Item',
 }

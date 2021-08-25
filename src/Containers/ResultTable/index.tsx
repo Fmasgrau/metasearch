@@ -4,13 +4,13 @@ import ItemList from '../../Components/ItemList'
 import { useAppSelector } from '../../Redux/hooks'
 
 export default function ResultTable(): JSX.Element {
-    const Items = useAppSelector((state) => state.resulttable.list)
+    const bingItems = useAppSelector((state) => state.resulttable.bingImages)
 
-    const GoogleItems = useAppSelector(
+    const googleItems = useAppSelector(
         (state) => state.resulttable.googleImages
     )
 
-    const showItems = Items.map((res, index) => (
+    const showBingItems = bingItems.map((res, index) => (
         <ItemList
             url={res.thumbnailUrl}
             alt={res.name}
@@ -18,7 +18,7 @@ export default function ResultTable(): JSX.Element {
         />
     ))
 
-    const showGoogleItems = GoogleItems.map((response, index) => (
+    const showGoogleItems = googleItems.map((response, index) => (
         <ItemList
             url={response?.image?.thumbnailLink}
             alt={response.title}
@@ -29,7 +29,7 @@ export default function ResultTable(): JSX.Element {
     return (
         <>
             {showGoogleItems}
-            {showItems}
+            {showBingItems}
         </>
     )
 }
