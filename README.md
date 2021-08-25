@@ -1,8 +1,19 @@
+# Image Finder
+
 ![coverphoto](https://user-images.githubusercontent.com/40182366/130716101-918769c1-37a6-43c7-a122-fb3fb28b8a5c.jpg)
 
-Use this webapplication for search the best images using Bing and Google as search engine!
+Use this Web Application for search the best images using Bing and Google as search engine!
 
-Do you want to run the project? Clone this and follow the instructions below.
+## How it works?
+
+![howitworks](https://user-images.githubusercontent.com/40182366/130716734-bf9d98ca-534c-4621-9089-de5e1fb708b7.png)
+
+## Steps:
+
+Put what you want to search, then select the search engine to disable the search button. After that click on the search Icon and wait.
+**That's ll!**
+
+**Do you want to run the project? Clone this and follow the instructions below.**
 
 # Getting Started with Create React App
 
