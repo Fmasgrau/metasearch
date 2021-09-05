@@ -4,7 +4,6 @@
 
 Use this Web Application for search the best images using Bing and Google as search engine!
 
-[Live Demo!](http://3.235.42.66)
 
 ## How it works?
 
